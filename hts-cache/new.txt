@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+07:25:36	2233/2233	---MCZ	200	added ('OK')	text/html	date:Sat,%2029%20Jul%202023%2012:26:22%20GMT	https://mundoapprd.com/Generador.php	C:/Users/Jccar/OneDrive/Escritorio/WEBMIA/mundoapprd.com/Generador.html	(from )
+07:25:38	113/113	---MCZ	200	added ('OK')	text/plain	date:Sat,%2029%20Jul%202023%2012:26:26%20GMT	https://mundoapprd.com/robots.txt		(from )
